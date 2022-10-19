@@ -1,1 +1,4 @@
 Welcome to Vanmillion Studios App ads.txt
+
+APPLOVIN(All Apps)
+applovin.com, f04bbb15ecf4bea3f9ebb7340f1c409a, DIRECT
