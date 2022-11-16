@@ -2,3 +2,5 @@ Welcome to Vanmillion Studios App ads.txt
 
 APPLOVIN(All Apps)
 applovin.com, f04bbb15ecf4bea3f9ebb7340f1c409a, DIRECT
+
+facebook.com, 459824172948079, RESELLER, с3e20eee3f780d68
