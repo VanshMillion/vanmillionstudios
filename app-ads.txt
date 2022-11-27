@@ -5,3 +5,5 @@ applovin.com, f04bbb15ecf4bea3f9ebb7340f1c409a, DIRECT
 
 FACEBOOK(Ad Networks)
 facebook.com, 459824172948079, RESELLER, с3e20eee3f780d68
+facebook.com, 848036109921462, RESELLER, с3e20eee3f780d68
+                        
